@@ -1,7 +1,7 @@
 # 🏠House Price Prediction using Linear Regression
 ## Project Overview
 
-#### This project predicts house prices based on various features using the Linear Regression algorithm.The goal is to understand how different factors like area, number of rooms, and location affect the overall #### price of a house.
+#### This project predicts house prices based on various features using the Linear Regression algorithm.The goal is to understand how different factors like area, number of rooms, and location affect the overall price of a house.
 
 ## What I Did ??
 
